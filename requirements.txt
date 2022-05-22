@@ -1,7 +1,5 @@
 pandas
 numpy
 matplotlib
-keras
 streamlit
-pandas_datareader
-tensorflow-gpu
+
